@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    padding: 30px 60px 30px 100px;
+    display: flex;
+}
+.container .colmid{
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.cols{
+ 
+    display: inline-grid;
+}
+
+.area{
+    width: 500px;
+    margin-left: 10px;
+}
